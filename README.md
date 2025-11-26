@@ -1,7 +1,7 @@
 # RPG API
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
-![Java](https://img.shields.io/badge/Java-17-orange)
+![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green)
 
 ## Sobre o Projeto
